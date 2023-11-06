@@ -1,0 +1,40 @@
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.clients h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+    font-weight: 700 !important;
+    color: #5fac7d;
+    font-size: 2rem;
+}
+.clients {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto ;
+    margin-right:auto ; 
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 4.0625rem;
+    padding-bottom: 4.0625rem;
+    max-width: 960px;
+}
+
+.client-back {
+    background-color: white;
+}
+
+.logo {
+    margin-bottom: 3.5rem !important;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.logo img {
+    max-width: 100%;
+    height: 75px;
+}

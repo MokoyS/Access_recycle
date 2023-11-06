@@ -1,0 +1,54 @@
+.bg-img{
+    background-size: cover;
+    background-position: center center;
+    background-image: url("../img/bg_xl.jpg");
+    min-height: 60vh;
+}
+
+.banner1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 19.125rem;
+    padding-bottom: 9.125rem;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+.banner1 h1 {
+    text-align: center;
+    font-size: calc(35px + ((50 - 35) * ((100vw - 320px)/ (1600 - 320))));
+    color: white;
+    margin-bottom: 20px;
+
+}
+
+.banner1 a {
+    text-align: center;
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: all 0.2s ease-in-out;
+    font-weight: 500;
+    min-width: 9.6875rem;
+    border-radius: 6.1875rem;
+    width: 20px;
+    background-color: #ffbf00;
+    margin-left:auto ;
+    margin-right:auto ;
+
+}
+.banner1 a:hover {
+    text-align: center;
+    cursor: pointer;
+    color: #1e2022;
+    background-color: #e0a800;
+    border-color: #d39e00;
+
+}
+
+

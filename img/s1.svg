@@ -1,0 +1,19 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(7.000000, 2.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(0.000000, 8.000000)">
+                <path d="M24.7173913,0.571428571 L24.7173913,63.4285714" id="Line-16" stroke="#F9C526" stroke-width="13" stroke-linecap="square" class="LeOizkhR_0"></path>
+                <path id="Triangle-2" fill="#F9C526" transform="translate(24.500000, 74.153846) scale(1, -1) translate(-24.500000, -74.153846) " d="M24.5,58L49,90.3076923L0,90.3076923Z" class="LeOizkhR_1"></path>
+            </g>
+            <g id="Group-Copy" transform="translate(63.000000, 44.500000) rotate(180.000000) translate(-63.000000, -44.500000) translate(39.000000, 0.000000)">
+                <path d="M24.7173913,0.571428571 L24.7173913,63.4285714" id="Line-16" stroke="#57B7AB" stroke-width="13" stroke-linecap="square" class="LeOizkhR_2"></path>
+                <path id="Triangle-2" fill="#57B7AB" transform="translate(23.945833, 73.129121) scale(1, -1) translate(-23.945833, -73.129121) " d="M23.9458333,57.6703297L47.3916667,88.5879121L0.5,88.5879121Z" class="LeOizkhR_3"></path>
+            </g>
+        </g>
+    </g>
+<style data-made-with="vivus-instant">.LeOizkhR_0{stroke-dasharray:63 65;stroke-dashoffset:64;animation:LeOizkhR_draw 3600ms ease-in 0ms forwards;}.LeOizkhR_1{stroke-dasharray:131 133;stroke-dashoffset:132;animation:LeOizkhR_draw 3600ms ease-in 0ms forwards;}.LeOizkhR_2{stroke-dasharray:63 65;stroke-dashoffset:64;animation:LeOizkhR_draw 3600ms ease-in 0ms forwards;}.LeOizkhR_3{stroke-dasharray:125 127;stroke-dashoffset:126;animation:LeOizkhR_draw 3600ms ease-in 0ms forwards;}@keyframes LeOizkhR_draw{100%{stroke-dashoffset:0;}}@keyframes LeOizkhR_fade{0%{stroke-opacity:1;}94.87179487179488%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

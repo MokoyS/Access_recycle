@@ -1,0 +1,37 @@
+.bars {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: none;
+    box-sizing: border-box;
+    display: none;
+
+}
+
+.bars span {
+    display: block;
+    background: #0000006e;
+    height: 2px;
+    width: 30px;    
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-left: 7px;
+    transition: transform 0.4s;
+}
+
+.line1 {
+    top:32px;
+    transform: rotate(-45deg);
+    position: absolute;
+}
+
+.line2 {
+    width:0px !important;
+}
+
+.line3 {
+
+    transform: rotate(45deg);
+    position: absolute;
+}

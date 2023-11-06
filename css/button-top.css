@@ -1,0 +1,19 @@
+.button-top {
+    right: 60px;
+    bottom: 60px;
+    height: 40px;
+    width: 40px;
+    background-color: #90c9a6;
+    position:fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-top .up-arrow  {
+    height: 20px;
+    opacity: 0.7;
+    
+}

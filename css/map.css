@@ -1,0 +1,64 @@
+.world {
+    padding-top: 4.0625rem;
+    padding-bottom: 4.0625rem;
+}
+.world-container {
+    text-align: center;
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+
+.world h3 {
+    font-weight: 700;
+    text-align: center ;
+    color: #5fac7d;
+    font-size: 1.75rem;
+}
+
+.world p {
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    color: #77838f;
+    line-height: 1.7;
+    padding: 0.5rem;
+}
+
+.world a {
+    margin-bottom: 20px;
+    text-align: center;
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: all 0.2s ease-in-out;
+    font-weight: 500;
+    min-width: 9.6875rem;
+    border-radius: 6.1875rem;
+    background-color: #ffbf00;
+    
+}
+
+.world a:hover {
+    text-align: center;
+    cursor: pointer;
+    color: #1e2022;
+    background-color: #e0a800;
+    border-color: #d39e00;
+
+}
+
+.map {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+}
+
+.map img {
+    height: 100%;
+    width: 100%;
+}

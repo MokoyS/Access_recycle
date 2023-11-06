@@ -1,0 +1,28 @@
+.wwd-back{
+    width: 100%;
+    background-color: rgb(255, 251, 245);
+}
+
+.wwd {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 4.0625rem;
+    padding-top: 4.0625rem;
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+
+.wwd h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+    font-weight: 700 ;
+    color: #5fac7d;
+    font-size: 2rem;
+}
